@@ -1,0 +1,168 @@
+station_curr_next,client_line,km
+Durango_Kukullaga,Bilbao-Donostia,20.7
+Amorebieta Geralekua_Kukullaga,Bilbao-Donostia,16.5
+Lurgorri_Amorebieta Geralekua,Ramal Amorebieta-Bermeo,12.7
+Arroa_Deba,Bilbao-Donostia,8.7
+Deba_Arroa,Bilbao-Donostia,8.7
+Usurbil_Aia-Orio,Bilbao-Donostia,7.8
+Aia-Orio_Usurbil,Bilbao-Donostia,7.8
+Zumaia_Zarautz,Bilbao-Donostia,7
+Zarautz_Zumaia,Bilbao-Donostia,7
+Deba_Mendaro,Bilbao-Donostia,6.9
+Mendaro_Deba,Bilbao-Donostia,6.9
+Bentak_Oiartzun,Donostia-Hendaia,6.6
+Oiartzun_Bentak,Donostia-Hendaia,6.6
+Euba_Durango,Bilbao-Donostia,5.8
+Durango_Euba,Bilbao-Donostia,5.8
+Amorebieta Geralekua_Zugastieta,Ramal Amorebieta-Bermeo,5.8
+Zugastieta_Amorebieta Geralekua,Ramal Amorebieta-Bermeo,5.8
+Zaldibar Apeadero_Ermua,Bilbao-Donostia,5.7
+Ermua_Zaldibar Apeadero,Bilbao-Donostia,5.7
+Toletxegain_Mendaro,Bilbao-Donostia,5.2
+Mendaro_Toletxegain,Bilbao-Donostia,5.2
+Elgoibar_Azitain,Bilbao-Donostia,4.8
+Azitain_Elgoibar,Bilbao-Donostia,4.8
+Amorebieta Geralekua_Lemoa,Ramal Amorebieta-Bermeo,4.8
+Lemoa_Amorebieta Geralekua,Ramal Amorebieta-Bermeo,4.8
+Busturia-San Kristobal_Forua,Ramal Amorebieta-Bermeo,4.7
+Forua_Busturia-San Kristobal,Ramal Amorebieta-Bermeo,4.7
+Elotxelerri_Derio,L3 Txori,4.67
+Derio_Elotxelerri,L3 Txori,4.67
+Muxika_Zugastieta,Ramal Amorebieta-Bermeo,4.6
+Zugastieta_Muxika,Ramal Amorebieta-Bermeo,4.6
+Lemoa_Amorebieta,Bilbao-Donostia,4.4
+Amorebieta_Lemoa,Bilbao-Donostia,4.4
+Amorebieta_Euba,Bilbao-Donostia,4.3
+Euba_Amorebieta,Bilbao-Donostia,4.3
+Errekalde_Usurbil,Bilbao-Donostia,4.1
+Usurbil_Errekalde,Bilbao-Donostia,4.1
+Gaintxurizketa_Bentak,Donostia-Hendaia,3.8
+Bentak_Gaintxurizketa,Donostia-Hendaia,3.8
+Traña_Berriz,Bilbao-Donostia,3.4
+Berriz_Traña,Bilbao-Donostia,3.4
+Aia-Orio_San Pelaio,Bilbao-Donostia,3
+San Pelaio_Aia-Orio,Bilbao-Donostia,3
+Ola_Matiko,L3 Txori,3
+Matiko_Ola,L3 Txori,3
+Lutxana_Zangroiz,Lutxana-Sondika,3
+Zangroiz_Sondika,Lutxana-Sondika,3
+Zuhatzu_Usansolo,Bilbao-Donostia,2.9
+Usansolo_Zuhatzu,Bilbao-Donostia,2.9
+Oiartzun_Gaintxurizketa,Donostia-Hendaia,2.8
+Gaintxurizketa_Oiartzun,Donostia-Hendaia,2.8
+Ariz_Zuhatzu,Bilbao-Donostia,2.6
+Toletxegain_Altzola,Bilbao-Donostia,2.6
+Zuhatzu_Ariz,Bilbao-Donostia,2.6
+Bedia_Usansolo,Bilbao-Donostia,2.6
+Usansolo_Bedia,Bilbao-Donostia,2.6
+Altzola_Toletxegain,Bilbao-Donostia,2.6
+Zumaia_Arroa,Bilbao-Donostia,2.5
+Arroa_Zumaia,Bilbao-Donostia,2.5
+Altzola_Mendaro,Bilbao-Donostia,2.5
+Mendaro_Altzola,Bilbao-Donostia,2.5
+Bermeo_Mundaka,Ramal Amorebieta-Bermeo,2.5
+Mundaka_Bermeo,Ramal Amorebieta-Bermeo,2.5
+Berriz_Zaldibar Apeadero,Bilbao-Donostia,2.4
+Zaldibar Apeadero_Berriz,Bilbao-Donostia,2.4
+Donostia-Amara_Lugaritz,Bilbao-Donostia,2.2
+Lugaritz_Donostia-Amara,Bilbao-Donostia,2.2
+Busturia-Itsasbegi_Mundaka,Ramal Amorebieta-Bermeo,2.2
+Lurgorri_Muxika,Ramal Amorebieta-Bermeo,2.2
+Mundaka_Busturia-Itsasbegi,Ramal Amorebieta-Bermeo,2.2
+Muxika_Lurgorri,Ramal Amorebieta-Bermeo,2.2
+Durango_Traña,Bilbao-Donostia,2.1
+Traña_Durango,Bilbao-Donostia,2.1
+Kukullaga_Otxarkoaga,Bilbao-Donostia,2
+Otxarkoaga_Kukullaga,Bilbao-Donostia,2
+Bedia_Lemoa,Bilbao-Donostia,2
+Lemoa_Bedia,Bilbao-Donostia,2
+Añorga_Errekalde,Bilbao-Donostia,1.9
+Errekalde_Añorga,Bilbao-Donostia,1.9
+Errekalde_Lasarte,Ramal Lasarte,1.8
+Lasarte_Errekalde,Ramal Lasarte,1.8
+Donostia-Amara_Anoeta,Donostia-Hendaia,1.7
+Pasaia_Herrera,Donostia-Hendaia,1.7
+Anoeta_Donostia-Amara,Donostia-Hendaia,1.7
+Herrera_Pasaia,Donostia-Hendaia,1.7
+Zamudio_La Cruz,L3 Txori,1.7
+La Cruz_Zamudio,L3 Txori,1.7
+Lugaritz_Añorga,Bilbao-Donostia,1.5
+Añorga_Lugaritz,Bilbao-Donostia,1.5
+Lekunbiz_Zamudio,L3 Txori,1.45
+Zamudio_Lekunbiz,L3 Txori,1.45
+Intxaurrondo_Herrera,Donostia-Hendaia,1.4
+Herrera_Intxaurrondo,Donostia-Hendaia,1.4
+Busturia-Axpe_Busturia-San Kristobal,Ramal Amorebieta-Bermeo,1.4
+Busturia-San Kristobal_Busturia-Axpe,Ramal Amorebieta-Bermeo,1.4
+Forua_Institutoa,Ramal Amorebieta-Bermeo,1.4
+Institutoa_Forua,Ramal Amorebieta-Bermeo,1.4
+Irun_Irun-Ficoba,Donostia-Hendaia,1.3
+Irun-Ficoba_Irun,Donostia-Hendaia,1.3
+Sondika_Ola,L3 Txori,1.3
+Ola_Sondika,L3 Txori,1.3
+Intxaurrondo_Loiola,Donostia-Hendaia,1.2
+Belaskoenea_Bentak,Donostia-Hendaia,1.2
+Loiola_Intxaurrondo,Donostia-Hendaia,1.2
+Bentak_Belaskoenea,Donostia-Hendaia,1.2
+Busturia-Axpe_Busturia-Itsasbegi,Ramal Amorebieta-Bermeo,1.2
+Busturia-Itsasbegi_Busturia-Axpe,Ramal Amorebieta-Bermeo,1.2
+Anoeta_Loiola,Donostia-Hendaia,1.1
+Galtzaraborda_Pasaia,Donostia-Hendaia,1.1
+Loiola_Anoeta,Donostia-Hendaia,1.1
+Pasaia_Galtzaraborda,Donostia-Hendaia,1.1
+Etxebarri_Ariz,Bilbao-Donostia,1.1
+Ariz_Etxebarri,Bilbao-Donostia,1.1
+Sondika_Larrondo,L3 Txori,1.1
+Derio_Lekunbiz,L3 Txori,1.1
+Lekunbiz_Derio,L3 Txori,1.1
+Larrondo_Sondika,L3 Txori,1.1
+Zurbaranbarri_Txurdinaga,Bilbao-Donostia,1
+Casco Viejo_Zurbaranbarri,Bilbao-Donostia,1
+Txurdinaga_Zurbaranbarri,Bilbao-Donostia,1
+Zurbaranbarri_Casco Viejo,Bilbao-Donostia,1
+Altza_Herrera,Ramal Altza,0.9
+Fanderia_Errenteria,Donostia-Hendaia,0.9
+Errenteria_Fanderia,Donostia-Hendaia,0.9
+Herrera_Altza,Ramal Altza,0.9
+Uribarri_Casco Viejo,L3 Txori,0.9
+Casco Viejo_Uribarri,L3 Txori,0.9
+La Cruz_Lezama,L3 Txori,0.9
+Lezama_La Cruz,L3 Txori,0.9
+Irun_Belaskoenea,Donostia-Hendaia,0.8
+Belaskoenea_Irun,Donostia-Hendaia,0.8
+Azitain_Eibar,Bilbao-Donostia,0.8
+Eibar_Azitain,Bilbao-Donostia,0.8
+Zarautz_San Pelaio,Bilbao-Donostia,0.8
+Toletxegain_Elgoibar,Bilbao-Donostia,0.8
+Elgoibar_Toletxegain,Bilbao-Donostia,0.8
+San Lorentzo_Unibertsitatea,Bilbao-Donostia,0.8
+Unibertsitatea_San Lorentzo,Bilbao-Donostia,0.8
+San Pelaio_Zarautz,Bilbao-Donostia,0.8
+Elotxelerri_Larrondo,L3 Txori,0.8
+Larrondo_Elotxelerri,L3 Txori,0.8
+Oiartzun_Fanderia,Donostia-Hendaia,0.7
+Fanderia_Oiartzun,Donostia-Hendaia,0.7
+Otxarkoaga_Txurdinaga,Bilbao-Donostia,0.7
+Txurdinaga_Otxarkoaga,Bilbao-Donostia,0.7
+Kukullaga_Etxebarri,Bilbao-Donostia,0.7
+Ardantza_Eibar,Bilbao-Donostia,0.7
+Eibar_Ardantza,Bilbao-Donostia,0.7
+Unibertsitatea_Amaña,Bilbao-Donostia,0.7
+Etxebarri_Kukullaga,Bilbao-Donostia,0.7
+Amaña_Unibertsitatea,Bilbao-Donostia,0.7
+Errenteria_Galtzaraborda,Donostia-Hendaia,0.6
+Galtzaraborda_Errenteria,Donostia-Hendaia,0.6
+Hendaia_Irun-Ficoba,Donostia-Hendaia,0.6
+Irun-Ficoba_Hendaia,Donostia-Hendaia,0.6
+Gernika_Institutoa,Ramal Amorebieta-Bermeo,0.6
+Institutoa_Gernika,Ramal Amorebieta-Bermeo,0.6
+Amaña_Ardantza,Bilbao-Donostia,0.5
+San Lorentzo_Errotabarri,Bilbao-Donostia,0.5
+Uribarri_Matiko,L3 Txori,0.5
+Errotabarri_San Lorentzo,Bilbao-Donostia,0.5
+Matiko_Uribarri,L3 Txori,0.5
+Gernika_Lurgorri,Ramal Amorebieta-Bermeo,0.5
+Lurgorri_Gernika,Ramal Amorebieta-Bermeo,0.5
+Ardantza_Amaña,Bilbao-Donostia,0.5
+Errotabarri_Ermua,Bilbao-Donostia,0.4
+Ermua_Errotabarri,Bilbao-Donostia,0.4
